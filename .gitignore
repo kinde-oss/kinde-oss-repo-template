@@ -1,18 +1,25 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# https://git-scm.com/docs/gitignore
 
-# Other files and folders
-.settings/
+# ---------------------------------------------------------------------
+# DO NOT CHANGE THIS SECTION
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Dependencies
+node_modules/
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Compiled output
+dist/
+build/
+coverage/
+
+# Generated at runtime
+*.log
+.cache
+
+# Personal files
+.idea
+
+# System files
+.DS_Store
+
+# ---------------------------------------------------------------------
+# Add specific rules here…
