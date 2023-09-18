@@ -4,6 +4,8 @@ The Kinde SDK for [technology name].
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Kinde Docs](https://img.shields.io/badge/Kinde-Docs-eee?style=flat-square)](https://kinde.com/docs/developer-tools) [![Kinde Community](https://img.shields.io/badge/Kinde-Community-eee?style=flat-square)](https://thekindecommunity.slack.com)
 
+You can also use the [technology name] starter kit here (<[link-to-kinde-starter-kit](https://github.com/kinde-starter-kits/)>).
+
 ## Development
 
 **`<todo>`**
