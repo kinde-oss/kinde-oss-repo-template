@@ -4,6 +4,8 @@ The Kinde SDK for [technology name].
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Kinde Docs](https://img.shields.io/badge/Kinde-Docs-eee?style=flat-square)](https://kinde.com/docs/developer-tools) [![Kinde Community](https://img.shields.io/badge/Kinde-Community-eee?style=flat-square)](https://thekindecommunity.slack.com)
 
+To help improve this SDK, please make suggestions in [its generator](<[link-to-technology-name-generator](https://github.com/orgs/kinde-oss/repositories)>) and follow Kinde's [contribution guidelines](https://github.com/kinde-oss/.github/blob/489e2ca9c3307c2b2e098a885e22f2239116394a/CONTRIBUTING.md).
+
 ## Development
 
 **`<todo>`**
