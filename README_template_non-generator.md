@@ -2,6 +2,8 @@
 
 The Kinde SDK for [technology name].
 
+You can also use the [technology name] starter kit here (<[link-to-kinde-starter-kit](https://github.com/kinde-starter-kits/)>).
+
 To help improve this SDK, please make suggestions and contributions to [its generator repo](<[link-to-technology-name-generator](https://github.com/orgs/kinde-oss/repositories)>).
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Kinde Docs](https://img.shields.io/badge/Kinde-Docs-eee?style=flat-square)](https://kinde.com/docs/developer-tools) [![Kinde Community](https://img.shields.io/badge/Kinde-Community-eee?style=flat-square)](https://thekindecommunity.slack.com)
