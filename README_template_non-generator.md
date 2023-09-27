@@ -2,7 +2,7 @@
 
 The Kinde SDK for [technology name].
 
-You can also use the [technology name] starter kit here (<[link-to-kinde-starter-kit](https://github.com/kinde-starter-kits/)>).
+You can also use the [technology name] starter kit here (<[link-to-kinde-starter-kit](https://github.com/kinde-starter-kits/)>).
 
 To help improve this SDK, please make suggestions and contributions to [its generator repo](<[link-to-technology-name-generator](https://github.com/orgs/kinde-oss/repositories)>).
 
